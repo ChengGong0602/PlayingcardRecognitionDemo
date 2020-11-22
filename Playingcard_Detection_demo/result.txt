@@ -1,0 +1,26 @@
+
+ seen 64 
+Enter Image Path:  Used FMA & AVX2 
+ Used AVX 
+data/scenes/train\000009661.jpg: Predicted in 2200.817000 milli-seconds.
+10c: 51%	(left_x:  251   top_y:  471   width:   59   height:   41)
+10c: 56%	(left_x:  576   top_y:  431   width:   54   height:   44)
+Jc: 45%	(left_x:  635   top_y:  502   width:   41   height:   36)
+Enter Image Path: data/scenes/train\000011543.jpg: Predicted in 2049.583000 milli-seconds.
+Jc: 99%	(left_x:   83   top_y:  403   width:   25   height:   43)
+Jc: 99%	(left_x:  259   top_y:  489   width:   27   height:   46)
+6d: 91%	(left_x:  273   top_y:  440   width:   24   height:   47)
+5d: 60%
+5d: 95%	(left_x:  452   top_y:  533   width:   27   height:   49)
+Enter Image Path: data/scenes/train\000017330.jpg: Predicted in 2000.088000 milli-seconds.
+Jc: 100%	(left_x:  284   top_y:  361   width:   24   height:   46)
+Jc: 100%	(left_x:  458   top_y:  456   width:   27   height:   47)
+3s: 100%	(left_x:  497   top_y:  435   width:   37   height:   48)
+Enter Image Path: data/scenes/train\000031331.jpg: Predicted in 1940.393000 milli-seconds.
+6h: 79%	(left_x:  202   top_y:  235   width:   41   height:   49)
+6d: 53%
+6h: 55%	(left_x:  525   top_y:  273   width:   35   height:   45)
+6d: 38%
+Jh: 31%	(left_x:  577   top_y:  207   width:   45   height:   32)
+7c: 99%	(left_x:  586   top_y:  148   width:   68   height:   31)
+Enter Image Path: 

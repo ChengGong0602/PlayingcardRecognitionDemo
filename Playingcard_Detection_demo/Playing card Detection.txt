@@ -1,0 +1,13 @@
+Development of high accuracy playing card recognition software
+By combining Python, opencv, C ++, Yolo and various image processing and deep learning technologies, we have developed a software that recognizes playing cards with high accuracy of 99.85%.
+Using this technology, you can recognize cards in various playing card games and mahjong games.
+
+
+高精度扑克牌识别软件的开发
+通过将Python，opencv，C ++，Yolo与各种图像处理和深度学习技术相结合，我们开发了一种软件，可以识别99.85％的高精度纸牌。
+使用这项技术，您可以在各种扑克牌游戏和麻将游戏中识别纸牌。
+
+높은 정확도의 플레잉카드 인식 쏘프트웨어 개발
+Python, opencv, C++, Yolo와 여러가지 화상처리기술과 딥러닝기술을 결합하여 플레잉카드를 99.85%의 높은 정확도로 인식하는 쏘프트웨어를 개발하였습니다. 
+이 기술을 리용하여 각종 플레잉카드유희와 마작유희에서 카드인식을 진행할수 있습니다. 
+ 

@@ -1,0 +1,1 @@
+darknet.exe detector demo cfg/coco.data yolocards.cfg yolocards_608.weights -c 0

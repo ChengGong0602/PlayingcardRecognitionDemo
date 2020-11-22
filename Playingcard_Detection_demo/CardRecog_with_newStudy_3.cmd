@@ -1,0 +1,1 @@
+darknet_no_gpu2.exe detect yolocards.cfg yolocards_4000.weights card.jpg
