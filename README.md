@@ -4,4 +4,4 @@ By combining Python, opencv, C ++, Yolo and various image processing and deep le
 Using this technology, you can recognize cards in various playing card games and mahjong games.
 
 ### Before running:
-You can download pretrained model and required dll files from [this link. ](https://drive.google.com/drive/u/0/folders/1hEj8k8v76fLxsqOdKfxNPRPCuzhJFvqS)
+You can download pretrained model and required dll files from [this link. ](htp://drive.google.com/drive/u/0/folders/1hEj8k8v76fLxsqOdKfxNPRPCuzhJFvqS)
